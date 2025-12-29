@@ -41,7 +41,8 @@ body{
 
 .Skills{
     padding: 50px 0;
-    flood-color: black;
+    flood-color: rgb(227, 5, 5);
+    color: blueviolet;
     background-image:url(../Image/bg3.jpg);
     background-size: cover;
    
