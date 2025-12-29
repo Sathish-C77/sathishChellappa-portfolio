@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+}
+.banner{
+    background-image:url(/portfolio/Image/bg.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    padding:220px 0;
+    color: aliceblue;
+}
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 40px;
+    font: size 50px;
+
+}
+
+.about-text {
+  width: 100%;
+  color: rgb(23, 22, 22);
+  justify-content:center;  
+  /* align-items: center; */
+}
+
+.about-image {
+  width: 40%;
+  text-align: right;
+  background-image:url(/portfolio/Image/bg.jpg);
+  
+}
+
+.about-image img {
+  max-width: 90%;
+  height: auto;
+  background-image:url(/portfolio/Image/about.jpg);
+}
+
+.Skills{
+    padding: 50px 0;
+    flood-color: black;
+    background-image:url(/portfolio/Image/bg3.jpg);
+    background-size: cover;
+   
+}
+/* .Contact{
+    padding: 50px 0;
+    background-image:url(/portfolio/Image/bg3.jpg);
+    background-size: cover;
+} */
+
+.css-icon {
+  font-size: 60px;
+  color: #2965f1;
+  margin-top: 15px;
+}
